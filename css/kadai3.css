@@ -1,0 +1,20 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h2{
+    background-color: aquamarine;
+    color: green;
+    text-align: center;
+}
+p{
+    color:brown;
+}
+h3{
+    color:crimson;
+}
+body{
+    background-image: url(../images/back03.jpg);
+    background-attachment: fixed
+}
