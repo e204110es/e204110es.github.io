@@ -1,0 +1,21 @@
+body{
+    background-image: url(../images/back05.jpg)
+}
+h1{
+    background-color: aqua;
+    color: white;
+    text-align: center;
+}
+h2{
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+table{
+    background-color: greenyellow;
+    color: black;
+}
+
+ol{
+    background-image: url(../images/back04.jpg)
+}
