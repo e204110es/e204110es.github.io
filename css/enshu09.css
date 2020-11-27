@@ -1,0 +1,27 @@
+body{
+    background-image: url(../images/back06.jpg);
+}
+h2.syumi1{
+    background-color: green;
+    color: blue;
+    text-align: center;
+}
+
+h2.syumi2{
+    background-color: greenyellow;
+    color: red;
+    text-align: center;
+}
+
+h1#rink{
+    background-color: yellow;
+    color: brown;
+    text-align: center;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
